@@ -44,12 +44,7 @@ Com base na análise dos dados, o sistema recomenda:
 2. Certifique-se de ter o arquivo `Bank_Customer_Churn.csv` no mesmo diretório (ou use o link direto configurado no notebook).
 3. Execute o notebook `Hackathon_Dados.ipynb` em um ambiente Jupyter ou Google Colab.
 
----
 
-## 👥 Integrantes - Grupo 5
-- **Bárbara [Seu Sobrenome]** - Data Engineer/Manager
-- [Nome do Colega 2]
-- [Nome do Colega 3]
 
 ---
 > *Este projeto faz parte do portfólio de estudos em Engenharia de Dados.*
